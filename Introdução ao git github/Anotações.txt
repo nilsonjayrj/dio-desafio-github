@@ -1,0 +1,4 @@
+O git bash é um console terminal extendido para otimizar o uso do git
+
+comandos
+git status - verifica se o repositório foi comitado ou não
