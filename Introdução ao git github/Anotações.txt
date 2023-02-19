@@ -2,4 +2,6 @@ O git bash é um console terminal extendido para otimizar o uso do git
 
 comandos
 git status - verifica se o repositório foi comitado ou não
-git add . ou -A - adiciona novos conteúdos a área de stage
+git add . ou -A - adiciona novas alterações a área de staging
+git commit -m "descrição das alterações no commit" cria o commit local
+git push origin main - envia os commits locais para a conta remota do github
